@@ -1,0 +1,17 @@
+{
+  "name": "gamedia",
+  "displayName": "gamedia",
+  "expo": {
+    "name": "gamedia",
+    "slug": "expo-template-bare",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
